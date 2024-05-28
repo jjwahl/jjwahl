@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **AWS, Godot and Swift**
 
-- 👨‍💻 All of my other sound related projects are available at [www.jonas-wahl.com](www.jonas-wahl.com)
+- 👨‍💻 All of my other sound related projects are available at [my first website](https://jonas-wahl.com/)
 
 - 💬 Let's talk about **TTRPGs, coding languages, music and whatever new exciting thing you want to!**
 
 - 📫 How to reach me **jonasjorge97@gmail.com**
 
-- 📄 Know about my experiences [www.jonas-wahl.com/about](www.jonas-wahl.com/about)
+- 📄 Know about my experiences [here](https://jonas-wahl.com/about)
 
 - ⚡ Fun fact **I have A LOT of hobbies and I'm a huge nerd**
 
