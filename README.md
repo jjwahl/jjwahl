@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you 👋, I'm Jonas</h1>
 <h3 align="center">A sound engineer and developer that loves to learn new things!</h3>
 
-- 🔭 I’m currently **finishing Le Wagon Full Stack Bootcamp**
+- 🔭 I’m fresh out of **Le Wagon Full Stack Bootcamp**
 
 - 🌱 I’m currently learning **AWS, Godot and Swift**
 
