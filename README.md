@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Godot and Swift**
 
-- 👨‍💻 All of my other sound related projects are available at [my first website](https://jonas-wahl.com/)
+- 👨‍💻 All of my other audio related projects are available at [my first website](https://jonas-wahl.com/)
 
 - 💬 Let's talk about **TTRPGs, coding languages, music and whatever new exciting thing you want to!**
 
