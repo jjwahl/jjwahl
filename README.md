@@ -3,7 +3,7 @@
 
 - 🔭 I’m fresh out of **Le Wagon Full Stack Bootcamp**
 
-- 🌱 I’m currently learning **AWS, Godot and Swift**
+- 🌱 I’m currently learning **Godot, AWS, TS and Node**
 
 - 👨‍💻 All of my other audio related projects are available at [my first website](https://jonas-wahl.com/)
 
