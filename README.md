@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Software Developer at PwC Portugal integrating a **Data & AI Team**
 
-- 🌱 I’m currently learning **Godot, AWS, TS and Node**
+- 🌱 I’m currently learning **Unity, Azure and TypeScript**
 
 - 👨‍💻 All of my other audio related projects are available at [my first website](https://jonas-wahl.com/)
 
