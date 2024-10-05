@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you 👋, I'm Jonas</h1>
 <h3 align="center">A sound engineer and developer that loves to learn new things!</h3>
 
-- 🔭 I’m fresh out of **Le Wagon Full Stack Bootcamp**
+- 🔭 I’m a Software Developer at PwC Portugal integrating a **Data & AI Team**
 
 - 🌱 I’m currently learning **Godot, AWS, TS and Node**
 
