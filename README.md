@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **jonasjorge97@gmail.com**
 
-- 📄 Know about my experiences [here](https://jonas-wahl.com/about)
-
 - ⚡ Fun fact *I have A LOT of hobbies*
 
 <h3 align="left">Connect with me:</h3>
